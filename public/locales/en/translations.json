@@ -44,8 +44,8 @@
   "awards": {
     "title": "Awards & Projects",
     "honorsAndAwards": "Honors & Awards",
-    "grants": "Grants & Funding",
-    "projects": "Projects",
+    "grants": "",
+    "projects": "",
     "noData": "No data available.",
     "showAll": "Show All"
   },
