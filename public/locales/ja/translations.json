@@ -44,8 +44,8 @@
   "awards": {
     "title": "受賞・プロジェクト",
     "honorsAndAwards": "受賞歴",
-    "grants": "研究助成",
-    "projects": "プロジェクト",
+    "grants": "",
+    "projects": "",
     "noData": "データがありません。",
     "showAll": "すべて表示"
   },
